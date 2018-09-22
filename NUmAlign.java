@@ -12,7 +12,6 @@ import java.util.*;
           b1=(b1*10)+a1;
           in=in/10;
          }
-         //Sysem.out.println(b1);
         while(b1>0)
         {
         c1=b1%10;
